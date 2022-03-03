@@ -1,0 +1,7 @@
+asgiref==3.4.1
+Django==4.0.1  
+Pillow==9.0.0  
+sqlparse==0.4.2
+tzdata==2021.5 
+
+Usando pip install -r requirements.txt em um ambiente virtual novo, você conseguirá reinstalar todos pacotes necessários ao seu projeto (nas versões corretas inclusive).

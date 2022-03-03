@@ -1,0 +1,9 @@
+# Ambiente virtual
+venv
+
+# Todas as pastas tem
+**/__pycache__
+
+**/__init__.py
+# Todos os apps tem
+**/migrations
